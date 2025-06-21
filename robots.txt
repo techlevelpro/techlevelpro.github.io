@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+Allow: /style.css
+Allow: /favicon.ico
+Allow: /preview.png
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
